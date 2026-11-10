@@ -53,6 +53,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+![Screenshot 2 ](images/"C:\Users\kudip\OneDrive\Pictures\Screenshots\Screenshot 2026-11-10 160922.png")
 
 ## 🎯 Objective
 The main objective is to build a simple and interactive machine learning application that automatically identifies unwanted SMS messages and demonstrates the practical application of Natural Language Processing and Naive Bayes classification.
